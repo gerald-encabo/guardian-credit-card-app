@@ -1,5 +1,7 @@
 ## Guardian Credit Card - React App
 
+This credit card react app is responsive on all devices with multiple pages and components. The images used are from unDraw.co, and icons are from the built library react-icon.
+
 Part 1: Front-End only <br/>
 https://github.com/gerald-encabo/credit-card-app
 
