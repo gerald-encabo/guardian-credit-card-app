@@ -3,7 +3,7 @@
 Part 1: Front-End only <br/>
 https://github.com/gerald-encabo/credit-card-app
 
-Part 2: Continues with Back-End for registration and login <br/>
+Part 2: Continues with Back-End for login, logout & registration <br/>
 https://github.com/gerald-encabo/guardian-credit-card
 
 Main Page Display:
