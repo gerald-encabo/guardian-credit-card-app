@@ -2,7 +2,7 @@
 
 This credit card react app is responsive on all devices with multiple pages and components. The images used are from unDraw.co, and icons are from the built library react-icon.
 
-Part 1: Focusing on Front-End UI developement <br/>
+Part 1: Focus on Front-End UI developement <br/>
 https://github.com/gerald-encabo/credit-card-app
 
 Part 2: Continues with Back-End featuring login, logout & registration <br/>
