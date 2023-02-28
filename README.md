@@ -5,7 +5,7 @@ This credit card react app is responsive on all devices with multiple pages and 
 Part 1: Focus on Front-End UI developement <br/>
 https://github.com/gerald-encabo/credit-card-app
 
-Part 2: Continues with Back-End featuring login, logout & registration <br/>
+Part 2: Add a Back-End with a feature of login, logout & registration <br/>
 https://github.com/gerald-encabo/guardian-credit-card
 
 Main Page Display:
