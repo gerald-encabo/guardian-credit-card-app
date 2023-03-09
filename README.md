@@ -1,6 +1,6 @@
 ## Guardian Credit Card
 
-This MERN stacj app page is responsive on all devices and different browers with multiple pages and components. The FrontEnd is highly focus on React Hook (useEffect, useState), React Router, Sass (or Scss) using mixins for media queries, and variables colors. While the BackEnd is mainly about login, logout and registration with MongoDB for saving data and JSON Web Token is used for encryption of user data. Redux is also used for user activities including logim, logout and registration.
+This MERN stack app page is responsive on all devices and different browers with multiple pages and components. The FrontEnd is highly focus on React Hook (useEffect, useState), React Router, Sass (or Scss) using mixins for media queries, and variables colors. While the BackEnd is mainly about login, logout and registration with MongoDB for saving data and JSON Web Token is used for encryption of user data. Redux is also used for user activities including logim, logout and registration.
 
 #### Part 1: Focus on Front-End UI developement <br/>
 https://github.com/gerald-encabo/credit-card-app
