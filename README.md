@@ -1,4 +1,4 @@
-## Guardian Credit Card - React App
+## Guardian Credit Card
 
 This credit card react app is responsive on all devices and different browers with multiple pages and components. The FrontEnd is highly focus on React Hook (useEffect, useState), React Router, Sass (or Scss) using mixins for media queries, and variables colors. While the BackEnd is mainly about login, logout and registration with MongoDB for saving data and JSON Web Token is used for encryption of user data. Redux is also used for user activities including logim, logout and registration.
 
